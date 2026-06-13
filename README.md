@@ -1,1 +1,1 @@
-# LANCER: Loop Augmented Network Generation for Critical Exponent Resolution
+# LANCER: Loop Augmented Networks for Critical Exponent Resolution
